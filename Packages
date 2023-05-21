@@ -1,0 +1,14 @@
+Package: com.spark.sneakycam
+Name: SneakyCam (Xinafied-rootless)
+Version: 2.0.6
+Architecture: iphoneos-arm64
+Description: Discretely take a photo or record a video from anywhere, even with your screen off.
+Maintainer: Kitarsin
+Author: SparkDev
+Section: Tweaks
+Depends: emt.paisseon.xinamine
+Filename: ./debs/com.spark.sneakycam_2.0.6_iphoneos-arm64.deb
+Size: 107776
+MD5sum: 5b46ee6677d7165c5b96164434e1cdf8
+SHA1: e6c3a4ddba8d75c41b0e7b92cc9fce4b9b510576
+SHA256: c637b25ae291b41db426f0390dc7f3efa7397a9afd31caf1179d62ee07cd28fc
